@@ -45,7 +45,7 @@
         "wk:page":"Shabakah"
     },
     "wof:country":"AE",
-    "wof:geomhash":"8250cfe1d56cd37d9f2cf4d2f0b6a3e6",
+    "wof:geomhash":"00027458a614c62e2c65746f38458c88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     56.0,
     25.03333
 ],
-  "geometry": {"coordinates":[56.0,25.03333],"type":"Point"}
+  "geometry": {"coordinates":[56,25.03333],"type":"Point"}
 }
