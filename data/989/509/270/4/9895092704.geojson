@@ -1,0 +1,75 @@
+{
+  "id": 9895092704,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.63211,25.31532,55.63211,25.31532",
+    "geom:latitude":25.31532,
+    "geom:longitude":55.63211,
+    "gn:population":53079,
+    "iso:country":"AE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118438: name \"Al Sajaah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118438"
+        },
+        {
+            "citation":"GeoNames populated place 13118438: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118438"
+        },
+        {
+            "citation":"GeoNames populated place 13118438: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118438"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171391 (Sharjah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632573,
+        85667977,
+        102191569,
+        421171391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118438
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"debe9ab25b90bd727285fe9fba2bbdac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":9895092704,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":9895092704,
+    "wof:lastmodified":1795747229,
+    "wof:name":"Al Sajaah",
+    "wof:parent_id":421171391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.63211,
+    25.31532,
+    55.63211,
+    25.31532
+],
+  "geometry": {"coordinates":[55.63211,25.31532],"type":"Point"}
+}

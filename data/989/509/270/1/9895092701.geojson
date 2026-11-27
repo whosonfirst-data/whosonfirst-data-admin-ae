@@ -1,0 +1,75 @@
+{
+  "id": 9895092701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.70779,24.39268,54.70779,24.39268",
+    "geom:latitude":24.39268,
+    "geom:longitude":54.70779,
+    "gn:population":61710,
+    "iso:country":"AE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12047416: name \"Al Shamkhah City\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12047416"
+        },
+        {
+            "citation":"GeoNames populated place 12047416: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12047416"
+        },
+        {
+            "citation":"GeoNames populated place 12047416: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12047416"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421172075 (Abu Dhabi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632573,
+        85667981,
+        102191569,
+        421172075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12047416
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"a7ff62636d12e69864c1798bea6d4ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421172075,
+            "locality_id":9895092701,
+            "region_id":85667981
+        }
+    ],
+    "wof:id":9895092701,
+    "wof:lastmodified":1795747229,
+    "wof:name":"Al Shamkhah City",
+    "wof:parent_id":421172075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.70779,
+    24.39268,
+    54.70779,
+    24.39268
+],
+  "geometry": {"coordinates":[54.70779,24.39268],"type":"Point"}
+}

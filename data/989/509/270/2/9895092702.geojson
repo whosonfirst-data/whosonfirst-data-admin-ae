@@ -1,0 +1,75 @@
+{
+  "id": 9895092702,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.24764,25.14479,56.24764,25.14479",
+    "geom:latitude":25.14479,
+    "geom:longitude":56.24764,
+    "gn:population":82310,
+    "iso:country":"AE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12047417: name \"Reef Al Fujairah City\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12047417"
+        },
+        {
+            "citation":"GeoNames populated place 12047417: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12047417"
+        },
+        {
+            "citation":"GeoNames populated place 12047417: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12047417"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1376833611 (Fujairah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632573,
+        85667959,
+        102191569,
+        1376833611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12047417
+    },
+    "wof:country":"AE",
+    "wof:geomhash":"c664f539ff9ebf4f1e9ae97dfcf5833b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833611,
+            "locality_id":9895092702,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":9895092702,
+    "wof:lastmodified":1795747229,
+    "wof:name":"Reef Al Fujairah City",
+    "wof:parent_id":1376833611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.24764,
+    25.14479,
+    56.24764,
+    25.14479
+],
+  "geometry": {"coordinates":[56.24764,25.14479],"type":"Point"}
+}
